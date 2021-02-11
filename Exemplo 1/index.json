@@ -27,8 +27,5 @@
   },
   "environment": {
     "uilayout": "vscode-terminal-split"
-  },
-  "backend": {
-    "imageid": "terraform"
   }
 }
